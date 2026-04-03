@@ -8,6 +8,8 @@ Our work is never merely about delivering content — it is about building the h
 
 For more information about the Digital Collections Team or our work, please contact [Patrick R. Wallace, Head of Digital Strategies](mailto:prwallac@hamilton.edu).
 
+## Additional resources
+
 [LITS Digital](https://litsdigital.hamilton.edu/) - our primary archival repository - offers a wide range of primary documents and historic artifacts, including manuscripts, printed works, visual materials, audio/video materials, and ephemera from American communal societies, the Ezra Pound Collection, American Civil War Collection, the Fillius Jazz Archive, and the Lesser Antilles. Most of these materials are digital surrogates of items housed within the [Michael Lang '67 Special Collections and Archives](https://www.hamilton.edu/offices/lits/special-collections), created by the DCT's in-house digitization lab.
 
-We are also proud to be making a growing number of resources accessible via [Internet Archive](https://archive.org/details/hamilton-college).
+We are also proud to be making a growing number of archival materials available via [Internet Archive](https://archive.org/details/hamilton-college).
