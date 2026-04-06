@@ -13,3 +13,7 @@ For more information about the Digital Collections Team or our work, please cont
 [LITS Digital](https://litsdigital.hamilton.edu/) - our primary archival repository - offers a wide range of primary documents and historic artifacts, including manuscripts, printed works, visual materials, audio/video materials, and ephemera from American communal societies, the Ezra Pound Collection, American Civil War Collection, the Fillius Jazz Archive, and the Lesser Antilles. Many of the items in these collections were created by the DCT's in-house digitization lab, from items housed within the [Michael Lang '67 Special Collections and Archives](https://www.hamilton.edu/offices/lits/special-collections).
 
 We are also proud to be making a growing number of historic texts and archival objects available via [Internet Archive](https://archive.org/details/hamilton-college).
+
+## Disclaimer
+
+All code and documentation in this repository are provided "as is", without warranty of any kind. Use them at your own risk; the organization and contributors disclaim any liability for damages arising from their use.
